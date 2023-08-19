@@ -1,8 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-  <img width="30px" src="https://cdn-icons-png.flaticon.com/512/87/87413.png?w=740&t=st=1658993294~exp=1658993894~hmac=0d3bdb667bf5bc6e78b000cd2b63c7ab06befb6e74dc857ee6fb27f31c4d5af4" alt="Telegram Badge"/> @ddeveloper_dmitriy
-    <img width="30px" src="https://cdn-icons-png.flaticon.com/512/3690/3690706.png" alt="Telegram Badge"/> develo.dmitriy@gmail.com
+  <img width="30px" src="https://cdn-icons-png.flaticon.com/512/87/87413.png?w=740&t=st=1658993294~exp=1658993894~hmac=0d3bdb667bf5bc6e78b000cd2b63c7ab06befb6e74dc857ee6fb27f31c4d5af4" alt="Telegram Badge"/> @Dmitriy_c_137
+    <img width="30px" src="https://cdn-icons-png.flaticon.com/512/3690/3690706.png" alt="Telegram Badge"/> c137.dmitriy@gmail.com
   </div>
   <h1>
   hey there
